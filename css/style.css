@@ -1,0 +1,23 @@
+body{
+  background-color: #faeee7;
+}
+
+img{
+  height: 250px;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  width: 5%;
+  border-color: #f54291;
+  border-width: 8px;
+}
+
+table{
+  border-spacing: 20px;
+}
+
+h1,h2,h3{
+  color: #f76a8c;
+}
